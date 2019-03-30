@@ -1,4 +1,4 @@
-# data-structure
+# Data Structure
 
 A data structure is a specialized format for organizing and storing data.
 
